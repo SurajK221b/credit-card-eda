@@ -78,8 +78,13 @@ credit-card-eda/
 │   ├── transactions.csv        # Transaction history
 │   ├── avg_transactions_after_campaign.csv  # Campaign performance data
 │   └── E_MasterCardDump.sql    # Database schema and sample data
+├── Plots/                       # Generated visualization outputs
+│   ├── Phase01.png             # Phase 1 analysis plots
+│   ├── Phase02.png             # Customer demographics visualizations
+│   ├── Phase03.png             # Transaction pattern analysis
+│   └── Phase04.png             # Credit profile insights
 ├── README.md                   # Project documentation
-└── requirements.txt            # Python dependencies (to be created)
+└── requirements.txt            # Python dependencies
 ```
 
 ### Data Schema Overview
@@ -87,6 +92,28 @@ credit-card-eda/
 - **credit_profiles.csv**: Credit information (customer ID, credit score, credit limit)
 - **transactions.csv**: Transaction details (amount, platform, product category, payment type)
 - **avg_transactions_after_campaign.csv**: Post-campaign performance metrics
+
+## 🖼️ Sample Visualizations - Phase 1 Analysis
+
+Our analysis generates comprehensive visualizations to support data-driven decision making. Below are sample plots from the Phase 1 analysis:
+
+### Phase 1: Data Overview & Customer Demographics
+![Phase 1 Analysis](Plots/Phase01.png)
+*Overview of customer data distribution and initial insights*
+
+### Phase 2: Customer Segmentation & Demographics
+![Customer Demographics](Plots/Phase02.png)
+*Age group distribution, gender analysis, and location-based segmentation*
+
+### Phase 3: Transaction Pattern Analysis
+![Transaction Patterns](Plots/Phase03.png)
+*Platform performance, payment methods, and spending category analysis*
+
+### Phase 4: Credit Profile Insights
+![Credit Analysis](Plots/Phase04.png)
+*Credit score distribution, income analysis, and risk assessment visualizations*
+
+These visualizations help identify key patterns in customer behavior, spending habits, and demographic trends that inform our target market recommendations.
 
 ## 🚀 Setup Instructions
 
