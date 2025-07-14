@@ -98,22 +98,35 @@ credit-card-eda/
 Our analysis generates comprehensive visualizations to support data-driven decision making. Below are sample plots from the Phase 1 analysis:
 
 ### Phase 1: Data Overview & Customer Demographics
+
+
+![Phase 1 Analysis](Plots/Pie_Distribution_Age_Group.png)
+*Overview of customer data distribution and initial insights*
+
 ![Phase 1 Analysis](Plots/Phase01.png)
 *Overview of customer data distribution and initial insights*
 
-### Phase 2: Customer Segmentation & Demographics
+### Customer Segmentation & Demographics
 ![Customer Demographics](Plots/Phase02.png)
 *Age group distribution, gender analysis, and location-based segmentation*
 
-### Phase 3: Transaction Pattern Analysis
+### Transaction Pattern Analysis
 ![Transaction Patterns](Plots/Phase03.png)
 *Platform performance, payment methods, and spending category analysis*
 
-### Phase 4: Credit Profile Insights
+### Credit Profile Insights
 ![Credit Analysis](Plots/Phase04.png)
 *Credit score distribution, income analysis, and risk assessment visualizations*
 
 These visualizations help identify key patterns in customer behavior, spending habits, and demographic trends that inform our target market recommendations.
+
+### Phase 2: Hypothetical Z-Test Example
+In Phase 2, we will implement statistical tests to validate our findings. For example, a hypothetical Z-test to compare average transaction amounts before and after a marketing campaign:
+
+### Distribution of Average Transaction Amounts
+![Phase2_CampainSale](Plots/Phase2_CampainSale.png)
+*Credit score distribution, income analysis, and risk assessment visualizations*
+
 
 ## 🚀 Setup Instructions
 
