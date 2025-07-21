@@ -1,4 +1,4 @@
-# Credit Card Data Analysis - Market Research for New Product Launch
+# Credit Card Data Analysis - Market Research and A/B Testing 
 
 ## 📊 Project Overview
 
